@@ -8,6 +8,8 @@
 |---|---|---|
 | https://go.fest-sun.ru/newyear/?ref=КОД | Новогодняя Мистерия | fest-sun-blocks/m/newyear/ |
 | https://go.fest-sun.ru/es/?ref=КОД | Энергия Солнца | fest-sun-blocks/m/energiya-solntsa/ |
+| https://go.fest-sun.ru/es/fe/ | Энергия Солнца – версия для партнёров | fest-sun-blocks/m/energiya-solntsa/fe/ |
+| https://go.fest-sun.ru/newyear/fe/ | Мистерия – версия для партнёров | fest-sun-blocks/m/partner/ |
 | https://go.fest-sun.ru/partner/ | Материалы для партнёров (из бота) | fest-sun-blocks/m/partner/ |
 
 Корень и несуществующие адреса уводят на fest-sun.ru.
